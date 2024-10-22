@@ -64,6 +64,8 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgBerny&layout=compact)](https://github.com/vgBerny)
+
 ###
 
 <!--
