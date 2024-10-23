@@ -26,9 +26,9 @@
 
 ###
 
-<p align="left">👋 A junior developer with a passion for computers and technology since childhood.
-💻 I love working on personal projects where I can solve problems and optimize code.
-🎯 My focus has always been on improving my skills and creating efficient solutions. I am looking for opportunities to collaborate on projects and continue learning about the world of software development.</p>
+<p align="left">👋 A junior developer with a passion for computers and technology since childhood.</p>
+<p align="left">💻 I love working on personal projects where I can solve problems and optimize code.</p>
+<p align="left">🎯 My focus has always been on improving my skills and creating efficient solutions. I am looking for opportunities to collaborate on projects and continue learning about the world of software development.</p>
 
 ###
 
